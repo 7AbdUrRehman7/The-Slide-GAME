@@ -1,5 +1,7 @@
 """Independent reimplementation of the slide game UI/logic.
 (No course-provided text or docstrings are copied.)
+
+Note for owner: Modified to avoid Copyright, origional implementation is still on the documents/CSCA08/[here]
 """
 import sys
 import slide_functions as sf
