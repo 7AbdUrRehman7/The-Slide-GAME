@@ -1,5 +1,7 @@
 """Independent reimplementation of the slide game helpers.
 (No course-provided text or docstrings are copied.)
+
+Note for owner: Modified to avoid Copyright, origional implementation is still on the documents/CSCA08/[here]
 """
 # Public constants (same values to preserve external behavior)
 N_COLUMNS = 5
